@@ -2,7 +2,7 @@
 Projeto de criação própria feito de acordo com curso Formação UX Designer - DIO.
 
 ## 📒 Descrição 
-ZoneFLix se trata de um projeto de ux designer de aplicativo móvel, wireframe de média fidelidade feito no figma. tem como o intuito de ser um aplicativo de filmes e séries.
+ZoneFlix se trata de um projeto de ux designer de aplicativo móvel, wireframe de média fidelidade feito no figma. tem como o intuito de ser um aplicativo de filmes e séries.
 
 ## 🤖 Tecnologias Utilizadas
  [![tecnologias](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
