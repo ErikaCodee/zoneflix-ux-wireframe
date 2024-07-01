@@ -21,3 +21,7 @@ Para visualizar será necessário uma conta no figma ou acessar o link abaixo.
 
 ## 👉🏼 Contribuindo para o projeto 
 O projeto se trata apenas de um wireframe. Mas se você tiver sugestões para melhorias ou desejar contribuir para o desenvolvimento, por favor, não hesite em abrir problemas ou enviar pull requests neste repositório.
+
+<p align="center">
+    Criado por 🤓 Erika 
+  </p>
