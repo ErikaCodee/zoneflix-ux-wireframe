@@ -8,7 +8,7 @@ ZoneFlix se trata de um projeto de ux designer de aplicativo móvel, wireframe d
  [![tecnologias](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 🧐 Processo de Criação 
-Se tratando de um wireframe de média fidelidade, esse projeto foi criado com foco em layout das telas com o intuito de ter um designer mais moderno acrescentando bordas arredondadas.
+Se tratando de um wireframe de média fidelidade, esse projeto foi criado com foco em layout das telas com o intuito de ter um designer mais moderno.
 
 ## 🔎 Como visualizar o projeto 
 Para visualizar será necessário uma conta no figma ou acessar o link abaixo. 
